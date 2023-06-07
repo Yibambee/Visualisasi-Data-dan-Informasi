@@ -13,4 +13,8 @@ Tableau:
 - [Praktikum7](/Praktikum7) - Dashboard
 
 Gephi:
-- [Praktikum1](/Praktikum1)
+- [Praktikum11](/Praktikum11)
+
+Flowmap.blue
+- [Praktikum13](/Praktikum13) 
+
